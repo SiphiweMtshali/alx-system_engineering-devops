@@ -1,2 +1,2 @@
 #!/bin/bash
-cp -u --recursive --no-clober --update*.html ..
+cp -u *.html ..
