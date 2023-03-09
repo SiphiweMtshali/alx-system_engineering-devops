@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -la . .. /boot number 11
+ls -la . .. /boot 
